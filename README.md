@@ -1,3 +1,3 @@
 # Pangram
 
-A description of this package.
+A package for checking sentences that might be pangrams. 
